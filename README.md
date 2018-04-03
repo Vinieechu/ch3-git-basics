@@ -6,4 +6,4 @@ of the [Introduction to Programming for Information and Data Science](https://in
 
 Solutions can be found in the `solution` branch.
 
-Completed by Vineet
+Completed by Vineet Kulkarni
